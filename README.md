@@ -1,8 +1,3 @@
-# React + Vite
+#Juliet's Nail Salon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A repository in progress. Currently designing and building UI for a Nail Tech in Denver, Colorado. She is wanting a personal website for herself and her business to showcase her work and to get in contact. All images are from Unsplash.com, once real images are given to me, I will insert them into the site.
