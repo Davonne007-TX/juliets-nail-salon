@@ -10,7 +10,7 @@ export default function Beautiful() {
 
   return (
     <>
-      <section className="bg-white flex flex-col justify-center items-center rounded-xl p-2 md:p-4 max-w-sm md:max-w-xl lg:max-w-2xl text-white absolute top-60 md:top-60 lg:top-58">
+      <section className="bg-white flex flex-col justify-center items-center rounded-xl p-2 md:p-4 max-w-sm md:max-w-xl lg:max-w-2xl text-white absolute top-72 md:top-60 lg:top-58">
         <div className="text-black font-great text-3xl md:text-4xl lg:text-5xl mt-5">
           Custom Designs Just For You
         </div>
