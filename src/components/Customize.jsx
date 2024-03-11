@@ -10,7 +10,7 @@ export default function Customize() {
 
   return (
     <>
-      <section className="bg-white flex flex-col font-serif justify-center items-center rounded-xl p-2 md:p-4 max-w-sm md:max-w-lg lg:max-w-xl text-white absolute top-72 lg:top-80">
+      <section className="bg-white flex flex-col font-serif justify-center items-center rounded-xl p-2 md:p-4 max-w-sm md:max-w-lg lg:max-w-xl text-white absolute top-64 lg:top-64">
         <div className="text-black text-3xl mt-5 ">
           Customize Your Nails at Juliet's
         </div>
