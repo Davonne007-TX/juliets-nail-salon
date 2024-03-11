@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         great: "'Great Vibes', cursive",
+        play: "'Playball', cursive",
       },
     },
   },
